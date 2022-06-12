@@ -1,0 +1,13 @@
+.sitePageHeader {
+    /* border: 1px solid rgba(216,216,216); */
+    margin: 16px;
+    /* text-align: center; */
+}
+.container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 16px;
+    margin-left: 16px;
+}

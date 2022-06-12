@@ -1,0 +1,21 @@
+.header {
+    background-color: #ffffff;
+    padding: 0 calc(50% - 650px);
+}
+
+.headerContent {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 13px;
+    padding-bottom: 5px;
+}
+
+.headerContent a {
+    font-size: 22px;
+    color: #000000;
+    margin-top: 63px;
+    margin-bottom: 44px;
+    padding-right: 60px;
+    text-decoration: none;
+}

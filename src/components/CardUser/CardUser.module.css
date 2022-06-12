@@ -1,0 +1,24 @@
+.card {
+    text-align: center;
+    width: 280px;
+    height: 386px;
+    background: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.card img {
+    width: 165px;
+    height: 168px;
+    border: 1px solid rgba(32, 81, 117, 0.74);
+    box-sizing: border-box;
+    border-radius: 80px;
+    margin-bottom: 30px;
+}
+.infoBox p {
+    text-align: center;
+    font-size: 18px;
+    color: #000000;
+    margin-bottom: 10px;
+}

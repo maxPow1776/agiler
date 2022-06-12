@@ -1,0 +1,21 @@
+.header {
+    background-color: #205175;
+    padding: 0 calc(50% - 650px);
+}
+.headerContent {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 9px;
+    padding-bottom: 9px;
+}
+.headerContent img {
+    width: 400px;
+    height: 117px;
+}
+.headerContent a {
+    font-size: 20px;
+    color: #ffffff;
+    margin-top: 46px;
+    margin-bottom: 47px;
+    text-decoration: none;
+}

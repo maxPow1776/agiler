@@ -1,0 +1,19 @@
+.cards {
+    display: flex;
+    flex-direction: column;
+    margin-right: 30px;
+    margin-top: 10px;
+}
+.sitePageHeader {
+    /* border: 1px solid rgba(216,216,216); */
+    margin: 16px;
+    /* text-align: center; */
+}
+.container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 16px;
+    margin-right: 16px;
+    display: flex;
+    justify-content: flex-end;
+}

@@ -1,0 +1,44 @@
+.headerMenu {
+    flex: 1;
+    min-width: 0;
+}
+
+.headerMenu .ant-menu.ant-menu-horizontal {
+    height: 100%;
+    border: none;
+}
+
+.headerRightContent {
+    min-width: 35px;
+}
+
+.headerRightContentPanel {
+    display: flex;
+    float: right;
+    height: 48px !important;
+    margin-left: auto;
+    overflow: hidden;
+}
+
+.headerCollapsedMenu {
+    display: none;
+}
+
+@media screen and (max-width: 745px) {
+    .headerMenu {
+        display: none;
+    }
+
+    .headerCollapsedMenu {
+        display: block;
+    }
+}
+.footer {
+    display: flex;
+    justify-content: space-between;
+}
+.footer p {
+    font-size: 20px;
+    color: #FFFFFF;
+    margin-top: 8px;
+}

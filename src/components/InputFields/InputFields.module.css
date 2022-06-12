@@ -1,0 +1,9 @@
+.container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+}
+.list {
+    margin-right: 30px;
+}
